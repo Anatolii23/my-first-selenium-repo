@@ -20,5 +20,6 @@ public class Test {
     public static void main(String[] args) {
         GetString getString = new GetString("7");
         Test test = new Test();
+        NewClass newClass = new NewClass();
     }
 }
