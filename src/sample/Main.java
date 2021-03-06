@@ -9,6 +9,9 @@ public class Main {
         System.out.println(person.equals(person1));
         System.out.println(person.equals(person2));
         System.out.println(person1.equals(person2));
+        System.out.println(person.hashCode());
+        System.out.println(person1.hashCode());
+        System.out.println(person2.hashCode());
     }
 
 

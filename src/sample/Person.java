@@ -25,4 +25,9 @@ public class Person {
         }
         return super.equals(o);
     }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(surname,pesel);
+    }
 }
