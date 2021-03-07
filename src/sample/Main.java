@@ -12,6 +12,7 @@ public class Main {
         System.out.println(person.hashCode());
         System.out.println(person1.hashCode());
         System.out.println(person2.hashCode());
+
     }
 
 

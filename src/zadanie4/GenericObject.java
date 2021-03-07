@@ -10,4 +10,5 @@ public class GenericObject {
     public void setContent(Object content) {
         this.content = content;
     }
+
 }
