@@ -1,0 +1,12 @@
+timestamp, winner, looser
+2020-10-17T19:30:50.622229+02:00, Player, Computer
+2020-10-17T19:31:41.609323+02:00, Computer, Player
+2020-10-17T19:32:18.681578+02:00, Player, Computer
+2020-10-17T19:32:51.412081+02:00, Player2, Player1
+2020-10-17T22:07:52.558238+02:00, Player, Computer
+2020-10-17T22:08:14.557821+02:00, Player, Computer
+2020-10-17T22:08:52.621871+02:00, Player, Computer
+2020-10-17T22:09:19.950042+02:00, Player, Computer
+2020-10-17T22:09:47.912450+02:00, Computer, Player
+2020-10-17T22:10:24.299876+02:00, Player, Computer
+2021-02-07T16:42:04.204742100+01:00, Computer, Mati
